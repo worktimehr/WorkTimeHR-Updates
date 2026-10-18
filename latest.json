@@ -1,6 +1,7 @@
-
 {
-  "version": "1.5.7",
-  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/latest/download/WorkTimeHR_Setup_1.5.7.exe",
-  "notes": "تحديث 1.5.7: تحسين فحص التحديثات وإصلاح المشكلات المكتشفة."
+  "version": "1.5.9",
+  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.5.8/WorkTimeHR_Setup_1.5.9.exe",
+  "sha256": "2e04a150002210526a99a9a5083ff5c1e7ee664b849bf7d48b27e0eed9bcc1a6",
+  "notes": "WorkTime HR 1.5.9",
+  "sig": "s-R_lMZsmBqKgL7Gk06Uv71CH1iFSvfOa2OPCb252rbJOfaULGjF8eejVWHqyBaBLVjhjitulx3WHDQYr8yEGtqwCF3D569LwA06C9uNuuUkLPOqXrvqtgmen-McA_uVa7yFTeFNwvp7s_bZ04kTWc3ndQxXOZXe2OJLoKVi2fd9KvaXytylIqMftLooWQrjQv8Kp8CfFHDyma-Ei2sSITAG04dAqj0jqU_UaaWqceSbnkEGc3QhYARvuq-1ELxxx8HNDdTSx6q1Pl9PwWCI_3Nrpi-c8Mwogq5wAR3Jq9M5Q4CHuGryiC2C2EsisXyoacM8Y9wlsebELZx1Vl3yfA"
 }
