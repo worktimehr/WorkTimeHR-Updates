@@ -1,0 +1,5 @@
+{
+  "version": "1.5.4",
+  "download_url": "https://github.com/OWNER/WorkTimeHR-Public/releases/latest/download/WorkTimeHR_Setup.exe",
+  "notes": "WorkTime HR 1.5.4. Replace this manifest only when a tested installer is published."
+}
