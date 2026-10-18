@@ -1,0 +1,1 @@
+Public repository safety rule: Do not upload Python source, WorkTimeHR_LicenseGenerator.py, license_private_key.json, private tokens, or customer data.
