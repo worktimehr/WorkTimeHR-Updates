@@ -1,5 +1,6 @@
+
 {
-  "version": "1.5.6",
-  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/latest/download/WorkTimeHR_Setup_1.5.6.exe",
-  "notes": "تحديث 1.5.6: تنزيل المثبّت مباشرة مع إظهار تقدم التنزيل وإتاحة تشغيله بعد اكتماله."
+  "version": "1.5.7",
+  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/latest/download/WorkTimeHR_Setup_1.5.7.exe",
+  "notes": "تحديث 1.5.7: تحسين فحص التحديثات وإصلاح المشكلات المكتشفة."
 }
