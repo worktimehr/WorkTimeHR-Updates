@@ -1,7 +1,10 @@
 {
-  "version": "1.5.9",
-  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.5.9/WorkTimeHR_Setup_1.5.9.exe",
-  "sha256": "dd28c189d279f118cbf22d1dda22bae56059ba5b7377ad451942e9047ab7c2a0",
-  "notes": "تحديث تجريبي",
-  "sig": "QigGu6o11L0v6BuR7MNYfpRVdcSBrK-wnH6fO_x7sUoYrnmBFT20Xa0S8vYtZ2m-1KsH7jkYu57BhA3D3mWh1-aSPsVmFzpPQpsjTlOamfHF7UNPXnr4pf-sd5VtaWSvnQ_WBIaGNP3CfhJOiYW0VlKAylUQofg8NehoDuMiP24b4hVnQJDYnVl9lpAkOHgJstRTXB70evdhXJQxge57N79X8Cq5PKBtZQf555wJksrWbwNJYGmMlGSAvf8xfl44W0AkGNnCIiLAGXCO6e5t7jAJBMmFwYrm6YqwRJBr5RbNM0YYqI5QTmo0FPsoYJ5flGiRSOA0SpA0323jBidHLQ"
+  "version": "1.5.10",
+  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.5.10/WorkTimeHR_Setup_1.5.10.exe",
+  "sha256": "3592b6d9b444efca162187701c391a40c143df7fe1642304a556c7193661eb0d",
+  "notes": "WorkTime HR 1.5.10",
+  "min_version": "",
+  "issued": "2026-10-19T22:20:52Z",
+  "sig": "4YqJuDnperb--rSgCcbPFHYczg0FPldQZDiwmhs1y_7HJfJxi9XhJ4Z2RtAXhQwPZzbPVuk_O1GdcxV9r5LOBet7_SrNfzIELTQ09z_A6sZ1SoYSR6EMpM-4RACozAWGVJOI3wt5IjKHf0RZJaFfEZTxsOd7GcCxWdVT5toPxukTpE4RX8N24SQsmxw5apF7Qh7A-9qMrleXA_0PFIVSb9nEzWRmW0muCExwMS5dvvWCqq5jiF1vt_wY_d-TDkzGWJUPsXkV6wKbIXt-1U8z-CWMi40FD7ciotKxrOfiCKpuoSl8jZq4UeleOqZklAKwjLx8WX_wWupTbRgD4LoOBw",
+  "sig2": "xOOkJicYQMevgrbML_O9_ABFW4a1t0Ec5Wm8QdktfB4gqzErAIygyg_xgAbBPBAczuuyEtYF41lqseR2pTEDdXx5qXNAs0RCUrWra9OiUtsOI0uEKXyEU4iErCdAYPDgQxcXFoOnquqM4rry6nuOxtsiqoaaSKpI7gT78RWKauc_vOSdO9JwU5V7UdzIjX5Ekjyv2yDIoZf2dBzPb7WwdC46iH9hXCOILGFGnw0pMKmKK2Uwffy06oYQEkAlzlcS7MotitMIRklLuZiMI9Syc1fKmsmy8dAyOS44MxswrsEo4Bk8jF5H_xpBrcZlqUi2M_qC5KVCdkxBvwhs0aartw"
 }
