@@ -1,10 +1,10 @@
 {
-  "version": "1.5.11",
-  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.5.11/WorkTimeHR_Setup_1.5.11.exe",
-  "sha256": "afeeb9dee7174900afca26ea3368af50a11f44896c85bd7b939e8b6346bb4e35",
-  "notes": "WorkTime HR 1.5.11",
+  "version": "1.5.15",
+  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.5.15/WorkTimeHR_Setup_1.5.15.exe",
+  "sha256": "b1416c984a3f7fc2627e88cd6456b12eb6700a51b8de1fa183df2fb6d23501e9",
+  "notes": "WorkTime HR 1.5.15",
   "min_version": "",
-  "issued": "2026-10-20T10:13:23Z",
-  "sig": "CmHDjPgFaJjY-8jmAkQG6LC_M5SWOpwabTeIRMMMYUVxCO8zIVEQrjWkHXeyEvu9z_S92HBpRvComdUIUR_dFQksyDDUYAPpIIjaVMwycAnYXE8UWgnWU7GfsmF-2DDAD-w8lgnVhrIe0R11JmPDYfyFQOxIi1MwiFC_CBssntXwrNJ5iWDVBfi0tGOlq6yyZOcqwxIfn0iQVadWW4oYqTGpqW9iCBUFPYbo0OOf7CCZ_wmZUBxx9dByLT76e8nZctJ-oGzrOlb8The5QDfBhbv_JokgZNpQ7CC4snx58Ys8If8CKRgp3RqzbPgMbLWDd_4Q6DlaPNPP2IPRALN9BA",
-  "sig2": "q2IjZ79pCCSIDkGWlks18HWecCQ5X9N7keu9ohUUGDXA3rRnOaZgkC5wej6i5tjSIc3rXaTF4kmMiOcZpxvW5dZBQIJtzI_zbJ0lAxSrlfEfmGvtXFf_GfCYoQUvrEIoVZ30oRYWqQf9HZkO4D2OSs5XPNjN4rxp7iA-MlIKXUiyrUunZ7x5sGU33R1Sogqx1QtyC27kjdJ4DBxaLdpzUAHrfR0Nz7lf3fg2cs21MFWNKpoRMULe5684H-3JzEqKZOil-pMmcFo7MRSkhRlFal6qUBk-wC3dhWVPPE1fkdua7vVDlhegVoSD47ruLb31k7zCjZ-xVnL5vdP8MwCFLw"
+  "issued": "2026-10-21T04:01:06Z",
+  "sig": "pIPKNLVE9ZZrw4e4RcSjDd8BpBHwhwEDwZ46wG4Zm5kwz5avF94esESvAdWUVeUREAwv7BU5HNfSFhQFoM-sduDT-DVw9sKcd7hcd2H6EqFyjxkHF8IjIaiCC-tRnXBpKQDN3-X0HQEF_9jcSmHePTcVe06XIrBejONt3LepZnbnPbqHm_i3ZX9cwC_atGrPnJv6ThvVN3s5heLe1A_QCCmOZNo6a7IfdmHlNBi-Z_RIxUfe153b1-YPteSX0oxnrdmewEOP6-FJFYeBa8h6jhuIdBvcEmJt5mAiTfj-5k9_90wqjKZ0pNGXWjNevmGAzWFuP3Jfs6n-jasVjDixHA",
+  "sig2": "AvCUbQPBSfVskwdOLgl_FbvUZOthz_fS8qjiv5Hk8U2gRRxHpeJE48rZE_xge0uOIm5qCBuWqEzPz07eL8IKBpDANqQzzlTFtq0J91NoCh7VPKF_54H6D-IdAcLHf9ZPCgliUhXxaq4alfXx4Vzmg_58N0qcDCGssxe_jtGp3ePMh-H4EiOi8iBD9xi7dzZ45x__jMm30q8fxvKfQkECReAWVID_JbdRXZ2mawmoegR1KfXA55LdeZz-6pVQr-g9uTI6ukpQed_2Bdx5hEnqvbuSTUSYz--GQZ6aUkfeVUxX-y2V-uMMtYSXi3h6129rR05EczNkFu-rFRpysInluA"
 }
