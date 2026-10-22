@@ -1,10 +1,10 @@
 {
-  "version": "1.5.17",
-  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.5.17/WorkTimeHR_Setup_1.5.17.exe",
-  "sha256": "85a351ffcb056f147218d78313d610253cb2c469e7c4b4d3c04d87e4d2440af9",
-  "notes": "WorkTime HR 1.5.17",
+  "version": "1.5.18",
+  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.5.18/WorkTimeHR_Setup_1.5.18.exe",
+  "sha256": "3d0f4051f2535c671dbcb196f107d702dda4c4b0609a64b9c1ec39f9af1fc043",
+  "notes": "WorkTime HR 1.5.18",
   "min_version": "",
-  "issued": "2026-10-22T10:38:56Z",
-  "sig": "ymnB9te4_qNfHdqJLZypUVN9rM0dTzSqW0FcOoJk76EfbSn4O0uHnas1enI73joRMgcRboW8WYOuVKADN7JmNWjXj4XIetWdiGD3KWVSf0Cjg9rNuQKUYKeywdRAyR0NV7kvpUv7i-pKGXzrZbLM9UEKlKsdH_5C6l1pcpo3NzAgwezNlsVPZcXymZafnTjSwnfr4Pd_DzCGE0gKIjdgIDtN-xB9Fb4S3mcBmSuLEssGWcC8i_xHeXhG9nwttCivi7eCxE0Xc83w1_BPkw0vP2R2XQbrDG0qpxNm8SRyBUZQwew-3OIYjpLkL6CmTvI5Wdi8bzolEkKwO5jIUs75jw",
-  "sig2": "CX4EnAa9TGg3pYh4zWTkFz10fuFKdDqmF7hy5JlJCiXt2q3-JGMdnaXEeuODuwoG04vxd8Af2bzvzn0MdjPvO9-mzuDxN1MUX8BUTvUehW5jKZvfe1lTL815pPuuZSBBZr2qi9a4uQLZuUvAZrh7zQwyZVfytjaaHquxKHv2Jymmia7nt3RTghL7shIce4FnRG1E6XOOjsUM4gCFv8LvQgBIMd2CcxGkHleTWhOn9TLwQk6R6vEBtEj5LatrV5JXgs0745lOnvbT2xr7gz7CsysTdVvZBGkiAPDp40mVRp8YvyiCgdcPRez1qIgb-Y8URxFgMzJl2YFUfK0D2AMO4w"
+  "issued": "2026-10-22T22:27:33Z",
+  "sig": "kMJuvQCsvH2u-0KBsWz2Q6ReC0FAPdbtReL9xifUJh_EOgSJutcnTJmehRUEO8fYDItKUln1kbNMaQYQPGLiXY6pEvcMKheHs4jxV_485sNPOB5L7DlsW8kfAuYYYqN30UFns-DTmmluvQUNs84g3jCSWFoYFM3ZrK3vAfy98NkKA6L0KyL2raqXQ0DdOrFEey2NGjtp3kAbgMERmdC2b-rCWEXDuJVr5botm-r4ww6IwuckedmFc468q06bl93c83FK8OxzcfAsu6Sk2S-L4KXZAh5zpX9rK0D6xU9SE02UTrXX_yqkOOuPwuJLhoj2NosNnpg2r_G4qOWKT5nOJA",
+  "sig2": "DHMCvW7vwxVMNxy4BBiurWv8kWYxxur5x0m5NqRSolvFl-Y906ah51ax4eZq51dUxWWtH9fywVFvB5lkykm7ie7OlDHENWm9OkhftzW3VfX5E7-ekxSSeJROSeLCkeQz31TyuIXCRRHL4gjDDd1i0ITqxvyNIxaukkbuYEf1bDyu9FvlppcoNWTnrgQ_jbsLMm0rDgF30_8pmVLXMC7PiQ_noAs4IGueQVhn1ek_EcIn6YpmWLv1w_LE4aYe-7KOfTAm5VtLzRcWVrqpVzr1dYudrBSWhqI5JMn_0DnGYq_X_wuCmlCPMC6MWrPrE5AE4c1DkbZPqHEcorj_NJGckQ"
 }
