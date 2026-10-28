@@ -1,10 +1,10 @@
 {
-  "version": "1.5.23",
-  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.5.23/WorkTimeHR_Setup_1.5.23.exe",
-  "sha256": "e480d3c0efcbeafe905924f7fdcf7620900966d85d1db6a12d94b2ad55f3afe0",
-  "notes": "WorkTime HR 1.5.23",
+  "version": "1.5.24",
+  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.5.24/WorkTimeHR_Setup_1.5.24.exe",
+  "sha256": "5d2c6349c7eb9353febba7aec7243819c5f7b9438a90835b1bda9576f52201fe",
+  "notes": "WorkTime HR 1.5.24",
   "min_version": "",
-  "issued": "2026-10-26T22:30:02Z",
-  "sig": "saCO_bSyhxfZLyoSR8jkX-YCB5XJYiCm0tAb_FRTl1kDeHZ_JVjj6cBKR5LFjhD_JUBtvExRsVRK8JOT_sJXBXTeyhopB4CiWzvm_fg0B_Hego8BW0UQ6LGMltpBbav4o7YcoMFENFwiWz_DEhfXVWzpTPxIuqxxp5RBt3JNKqeSXJMdVOpN9W2SQ-1jCu4ldRk3pmUqr1DGbGksEs9pslqJCL3eHJEb4a6YXE7maZOUeMcoI7bxLcUO-NSjt_LVjZ_YlZN29U0fjoMRnizwe-Xfg6yYW6kAxPGk6ktHW-ZIocw1qne2e2ZZQ3J_IigJAyOHlqhgtt8vIEm2R1mD5A",
-  "sig2": "PYxdjQrrBFyUXGxswRo3CU_5_5JPJipUB1bZI0Do7oHfQq_15Gk7rorGaMi0wNJdgA3u4G5SXI4wjWQ2t-YrGI5IqZ-x-Zs45DoyUi8uj2d9iwGXqfzdZRzXqI2csTN80CvnNd8fSmUjYer-E8K0390bkcu9o44fq6q4YDpLOavSs_8WvOLqanaq2UhkYRDNV-VNwR9-vqEuJrqIHZgdDuU_s_33rYYOztrQEHBpMZYSikQ3d0BbYkf2rZPKNnVLVk1NTFxv48u7098ofKMdwToQLRUZ8GOntBENe2vYfQZ3AbMZSQmsS7VSTYPsguqIc31gqnw6TPXGZy9RNe2u5g"
+  "issued": "2026-10-28T06:24:24Z",
+  "sig": "HZelhR-QBFhrpf9rxc-tcEDlgxNRrPl6jDuyppQtHvefr0kxYl0U3ctRmkkhonQfEoZI7nFavhawtO58OL9eSvCVA5G6i5ZpcAgSSVgZpTuulpUimomHBabbkvxCVVxL83TxnK9Hgxrtya1DhmOByHP7iqA6-ojnfCvDBGdOMSIMBCp8i9zMG54EQxAU7PtZ3yFPkCX-2SYBrgt-2SW3GeljEwqrCDuNMJvVCPPJxt6VvIZ26ZvDfT0RvolX0rkliok5OfuvJ-RrJUTA0CbzBY49NmeaqWin3lL84Um7Zbaqxp5-EG5c3Hh2VQkJyIoif2AP7ATftfIvlS-Xp4Ql_g",
+  "sig2": "LmEJifWdwEFXLzvb9Xryl2eo32GC14dxjomodjSszBPlJ3ab-cvw93fnDJrF4HjGD3bDh_zJY1J1F5ZQ7qJwxB9Lv21gWBtKAV_40p4kLWSSzTNc430CJTVymy5tkD61khj_CZO0HZzsIw_rJPnrDNNrimvNAb4ftRQ4kTf0p8wCPtt_1KEfA6UPHnqLFbdUzI7rQZY46M9wY0WURAQGSzJ0pUINcS_lb4z-wLVUov_rp40yTs4yEmwjmQQ5ZBthfBuyCNGY8f0oK7VP2DkTrQ68wnAyr-dsOqlNk8QymcvHty4Cikr3nXDVIfE7yUsNv5kcbPkoRL5pCrz1j6CNGQ"
 }
