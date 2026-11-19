@@ -1,10 +1,10 @@
 {
-  "version": "1.6.1",
-  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.6.1/WorkTimeHR_Setup_1.6.1.exe",
-  "sha256": "74f469e38ce623283855fde7011023f5ee58f3866af84a880bf33db8cfee8e37",
-  "notes": "WorkTime HR 1.6.1",
+  "version": "1.6.2",
+  "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.6.2/WorkTimeHR_Setup_1.6.2.exe",
+  "sha256": "33f9c14e7fe2a0f4e2f4ee8a56335704fe0d614fbdb86b2040d59b9fc9c5afce",
+  "notes": "WorkTime HR 1.6.2",
   "min_version": "",
-  "issued": "2026-11-19T10:26:34Z",
-  "sig": "jteA23OzZmCgUlnWKWEa5sDtvu-t5cCkK-FsCTwOJreMcWRk3zhuZhZRpa_WF45Duz5_Kp4XJpfeTeNBPBESNvG1a3myG2x7gjg2ih1UQ2DuyeFoAF3eVRTlUKaXhNIo24WY7PWagwhduxmkDc2VuihbPrVO2w85SEGSSXUlrD6LVnELXMFVCDvCT42xROsEpFrZ0ss20wjkZ1m6RnaKuPXWROCI-RFnTPM7oc3QLm57_EeYgVv5srWnQcWcbeW4APqGCj3dGWbiUmylofDBXhGgKbk7xRfUtJ_MIBD5K8QrKndb-9Kt1jPmtINaKYALqQJfdivHUo0eTcDj9W6J_w",
-  "sig2": "XCuHdOtpj3hycL0RMtJ98GXHAvG1P7R24qL3fpvGMsQzrwtlA-bycPzP84b6Q3mi4dBdNWglHuuNUaSETs5GFi5vfh1-rAU_FW6US1JSYRcifCPvW4ySVkAmhzwl-T278mYAYjktQtxyDlqVLttzxosaHccCfW77dCwsEVGGzx7dsCkEwQUKuATFctEhcOxtcsjQ_W39w-avjNV0XalAUxRXTyDIMVrxBVbrddf_pGw7uakyChb-lY0v_1T8DY6KW24ZJeNvutY2dV-2vGwEexCoUyD7h_WiNy4EJWwqtlZvHWhQJyLGUD4IdjLa5NygNevlm45o7yfi4Muv1IxQ8A"
+  "issued": "2026-11-19T13:35:24Z",
+  "sig": "wXQZjRwVA93PYEVTZAwl-w5QxU9kWrBURujcsl9jvKo4nBmbRhBEalZ2SGEnT3X67UoLauVxk1Lg0fQNVeUJmyiW2Fred_sfEHgT4LA2BGGVpc4x-VNyAJza8kK_U4r3BKmAj_M_PxbUWeoKhhQXa3gpMGk0TayeWNysHX6OT_AtgWFzKophQPsXaER7aZN1Ozc7V8MKdtK8BspHpUFqu-mG_w2hMReucjyHkntc7b_Gtu7QD1bPssIZWkYd_HeuVaz4a7UqvBlH69jnVs9Ee_xzvvVb6XEwxBPDWCA84fKR5rx2wIeeL2elaft6IRtGZ9EQ1jBOXdbbHsTgyF7zLg",
+  "sig2": "Di7UhJw0rw9tuAsnFPn7uQ88dSkt3aS2j_hSacNkFhB6FxxW5y6u3h26gEhdBfUzh_K171NZ98qcPHn8-jtCiXBmD10BYqFxQEpjYBTy3e7XaJ-MDEd0DfELrs9aVXBni2OR-jiL6AwndbJNbS_hHvIOmO8IGDih_4QfK-lWxPjNwrX5Qwv40nI7vZbytbTocscgShrsr_awSvdqZavOXy1f7xfwvw7MjCncEJX2LQg_0PriWsf_iDi0UWCveUhtXco9lJxpNsJv4TPdF6RbOUJmTVFocLLKj-JJKTGNU3hTTkhemfXqAQaQn33gHFXdSLr_-qF3UjJPh3jC-VtQfQ"
 }
