@@ -1,10 +1,10 @@
 {
   "version": "1.6.3",
   "download_url": "https://github.com/worktimehr/WorkTimeHR-Updates/releases/download/v1.6.3/WorkTimeHR_Setup_1.6.3.exe",
-  "sha256": "745e13f8b481d24be29a78d0d4feab12e1321a400e1f20a0c4d26819ad5e5a90",
+  "sha256": "d792d0b568296e183c5ebd968bfbd38296c0a84a80cc0dbbcf6d0f76800f2526",
   "notes": "WorkTime HR 1.6.3",
   "min_version": "",
-  "issued": "2026-11-22T14:27:32Z",
-  "sig": "Rz16dDfUs2nVqgEyMv2lVw2azi30Laor9zL4TWubjlfUTYrZs3m033OFqeU8bjWW1Q4-qrvWZDm140CFGdtNl4eXe7LaW2x_NCBld2jlFPGDaI6OYnWgtESnyGyXU9FRx-io97NcgDqM9_ZmBugIsCzJbwupBInLmXqF86xnY_oL-bZMvLYTuPnFdWXBBdp6dLKuTFPlUnYueHWS34R81gsw1WQzKktk2pCeZ4okn2Nwmu344eC08KNuyGHBkB5jfAOWaYInv015J2MIXY0zBbvRXH9G3hCiUPDSLWaeB3d06YnaZCNKjwXHgOcB00XlvMWY2UiOu9eJAp_nU1aFiA",
-  "sig2": "vU_FTKirxQ0UA13KlLVw_AkjmsWdt-sULIJ3yzuIbqS6E19AHJTHB8i8y-ZlbbFOiYpE2971Y1JUKqkSJ2Y2yH4FtSiIycuAIdYKkOIzuXp1cqCbYU1H61hwk8b09QsbIOeV86gZd0t_I-3OWKFYfbl7DKL_JVhZZ3JVE1RJSgw7sqBS2KzORVvDPcnNQ-ca53lphlBxXiG-dANHj9RGyXjb_o_DgnLmSWB3gz9ytPx4OM3s3lS1pdj3GQzUXo_i2hZfRLBwwlbutH3HsKBXo9XBIKlELN_2V-NeHQVMDgXrmlFnICraJSZMU-I9tzkkB-K1J-itDwYghjtvENDKVQ"
+  "issued": "2026-11-23T01:34:45Z",
+  "sig": "K7W1_8h89xAxWcVqac_vV1PU_g3bGzY0nWJGI5L9vLNI-UV_Daali8H7kTlC-AAlXzn1riztcnAdV_1B2D5dQK8zX9tT-0DgAX3R92ZDrzH-ccB1p8BN60Ile6A20PlmQE5vBmehKAChDgyUFPaIz3hubRIwYhB6MgJz-r0YrYYE_GBQ6K1OVgieXCIJb0xonDicJfKFSlnC2q2lI0uXx9e4-2zij0xNQFoBveKPV8eMeqeHZEGZT5Pwe2HFBKXd9i48y3qdKBRKvxurmfNiQ7dehi_bhylYMcgYk2l026nZrYR_dsGPO3wZqbMpZqZY2aZAh5TirbfA02WoXCndYw",
+  "sig2": "bfj71zOrgEc5_nlyFqoxluB0Wyko_MTGwfkkcKfeV1IBUj7wO_ahNSBXk3w3vnqQety2el0nLVAv8wmMuwy44lry2demCzMYrjEmJDy_6Fy4gDqr373t3VdWY2CzYypdZlbV6FpA_FfehIBTcb4jS2CEKRssqm2DNi-bvo0tEa0qcsrISiu33ASvmByXsRzT57i4Lnr208dhlC_Y_CONNbXjpBNgjn3n7i8hHXCaU6lySP2vivCitFGb1dqcJLfS1dYOzlfsNVtKouWtUjMcqbjrkpvnILWZYLaCgFYQKubVh3FgVM3E9JtoY60_VyEquBHsWgRO-vLIpRVZHfMyIA"
 }
